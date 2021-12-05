@@ -7,7 +7,7 @@
 ##For Desktop
 <img src="desktop.png"/>
 
-<video src="anime.mov"/>
+<video src="https://streamable.com/843hmd"/>
 
 
 ## Detail of the project
