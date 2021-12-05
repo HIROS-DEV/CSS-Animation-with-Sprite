@@ -5,7 +5,7 @@
 ## ScreenShot of the project
 
 ##For Desktop
-<img src="desktop.png"/>
+<img src="desktop.png" style="max-width: 730px;"/>
 <video src="https://streamable.com/843hmd" controls="controls" style="max-width: 730px;">
 </video>
 
