@@ -7,7 +7,7 @@
 ##For Desktop
 <img src="desktop.png"/>
 
-<video src="https://streamable.com/843hmd"/>
+https://streamable.com/843hmd
 
 
 ## Detail of the project
