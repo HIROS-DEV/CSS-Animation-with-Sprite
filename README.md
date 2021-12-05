@@ -6,7 +6,8 @@
 
 ##For Desktop
 <img src="desktop.png"/>
-<img src="https://streamable.com/843hmd" />
+<video src="https://streamable.com/843hmd" controls="controls" style="max-width: 730px;">
+</video>
 
 
 ## Detail of the project
