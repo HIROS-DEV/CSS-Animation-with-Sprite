@@ -6,8 +6,7 @@
 
 ##For Desktop
 <img src="desktop.png"/>
-
-https://streamable.com/843hmd
+<img src="https://streamable.com/843hmd" />
 
 
 ## Detail of the project
