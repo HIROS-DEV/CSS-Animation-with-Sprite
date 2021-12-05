@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/95255730/144743847-83bfdc23-ac00-4bc0-
 Today is holiday.
 So, I learned CSS Animation with Sprite Sheet for just enjoyment.
 
-I watched the below Youtube Video. 
+I watched the Youtube Video. 
 (https://www.youtube.com/watch?v=pzHRDsOcUBg)
 
 I think he is very skillful programmer.
