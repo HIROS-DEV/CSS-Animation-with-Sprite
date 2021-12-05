@@ -5,7 +5,7 @@
 ## ScreenShot of the project
 
 ##For Desktop
-<img src="desktop.png" style="max-width: 730px;"/>
+<img src="desktop.png" style="max-width: 500px;"/>
 
 
 
