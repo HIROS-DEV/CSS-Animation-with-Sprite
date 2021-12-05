@@ -7,7 +7,7 @@
 ##For Desktop
 <img src="desktop.png" style="max-width: 730px;"/>
 
-[![Demo CountPages alpha](https://i.vimeocdn.com/video/1318635054-029cae540ca8914c1ba463076984d6f5d364901c68f83ad3c3047670b5a121a6-d?mw=900&mh=764)](https://vimeo.com/manage/videos/653366537)
+[![Demo CountPages alpha](https://vimeo.com/manage/videos/653366537)](https://vimeo.com/manage/videos/653366537)
 
 
 ## Detail of the project
