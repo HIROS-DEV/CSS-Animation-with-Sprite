@@ -6,8 +6,7 @@
 
 ##For Desktop
 <img src="desktop.png" style="max-width: 730px;"/>
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/653366537?h=5a5c21ce2c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="anime.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<video src='anime.mov' width=180/>
 
 
 ## Detail of the project
